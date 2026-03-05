@@ -4,7 +4,7 @@
 This project focuses on analyzing sales transactions using SQL.  
 The goal is to derive **actionable business insights** such as product performance, customer base growth, and revenue trends.  
 
-The key deliverable is a SQL **view** called `gold_report_products`, which aggregates important KPIs like:
+The key deliverable is a SQL **view** called `gold_report_products`,`gold_report_customers` which aggregates important KPIs like:
 - Total sales
 - Customer count
 - Product lifespan
