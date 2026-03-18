@@ -49,7 +49,8 @@ Example KPIs produced:
 ---
 ## 📊 Customer Report Outputs
 
-The primary output of this script is the **SQL view** `gold.report_customers`. This view consolidates customer demographics, purchase history, and calculated performance metrics.
+The primary output of this script is the **SQL view** `gold.report_customers`. 
+This view consolidates customer demographics, purchase history, and calculated performance metrics.
 
 ### 1. Customer Segmentation
 Customers are categorized based on their tenure (lifespan) and spending habits:
